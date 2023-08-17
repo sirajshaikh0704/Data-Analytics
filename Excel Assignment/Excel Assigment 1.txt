@@ -1,0 +1,23 @@
+
+1. What do you mean by cells in an Excel sheet?
+ In a worksheet or spreadsheet, we store any value at a certain place that place called cell.
+Cells Location can be defined by a combination of Alphabetical and Number.
+
+2. How can you restrict someone from copying a cell from your worksheet?
+ we can protect that cell from the review ribbon.
+
+3. How to move or copy the worksheet into another workbook?
+ Right-click on the tab for the worksheet you want to copy and select “Move or Copy” from the popup menu.
+
+4. Which key is used as a shortcut for opening a new window document?
+ Ctrl+N is a shortcut key
+
+5. What are the things that we can notice after opening the Excel interface?
+ 1st will see the rows and columns as well as cells.
+The ribbon on the top. Formula bar. Tab on the bottom
+
+6. When to use a relative cell reference in Excel?
+ Sometimes we need to repeat the same calculation across multiple rows or columns. That time we can use a relative cell reference.
+
+
+
