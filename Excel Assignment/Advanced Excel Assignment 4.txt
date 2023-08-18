@@ -1,0 +1,32 @@
+Advanced Excel Assignment 4
+
+1. To use the ribbon commands, what menu and grouping of commands will you find the Insert and Delete commands?
+--> In the Excel ribbon. Home: This is the most popular bar and is displayed by default when Excel is opened. This tab contains the basic         Clipboard. commands, formatting commands, style commands, commands to insert and delete rows or columns, and an assortment of worksheet editing commands. To add or remove a cell, you can go to the home menu, look in the Cells grouping of commands and click on Insert to add or delete to remove. You
+can also use the right-click method. Right-click where you want to add or
+remove a cell, and the drop-down menu includes the Insert and Delete
+commands.
+
+2. If you set a row height or column width to 0 (zero), what happens to the row and column?
+--> It will hide that particular column and Row.
+
+3.  Is there a need to change the height and width of a cell? Why?
+--> It is necessary to change the width and height in Excel to fit the data. Excel
+    by default provides equal width and height with respect to columns and
+    rows. Whenever we enter lengthy data, a few characters will get displayed
+    and others will be present inside the cell but will be hidden from the user.
+
+4.  What is the keyboard shortcut to unhide rows?
+--> Press Ctrl + Shift + 9 (the fastest way).
+    Select Unhide from the right-click menu (the easiest way that does not require remembering anything).
+    On the Home tab, click Format > Unhide Rows (the traditional way).
+
+5.  How to hide rows containing blank cells?
+--> Select the range that contains empty cells that want to hide. On the Home tab, in the Editing group, click Find & Select > Go to Special.
+    In the Go to Special dialog box, select the Blanks radio button, and click OK.
+    Press Ctrl + 9 to hide the corresponding rows.
+
+6. What are the steps to hide duplicate values using
+conditional formatting in Excel?
+--> To filter for unique values, click Data -- Sort & Filter -- Advanced. To remove duplicate values, click or type Data Range where want to remove
+duplicates by clicking ‘unique records only’. Another way, to remove duplicate values  click Data  Data Tools --
+Remove Duplicates.
