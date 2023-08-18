@@ -1,0 +1,30 @@
+ Advance Excel Assignment 3
+
+1.  How and when to use the AutoSum command in Excel?
+--> If want to sum a column or row of numbers, select a cell next to the
+    numbers that want to sum. Then click ‘AUTOSUM’ in the home tab
+    (Formula bar). When clicking Autosum, Excel automatically enters a formula that
+     uses a sum function to sum the numbers.
+
+2. What is the shortcut key to perform AutoSum?
+--> We can insert Autosum by typing the ‘ALT + =’ keyboard shortcut.
+
+3.  How do you get rid of a Formula that omits adjacent cells?
+--> Launch your Excel sheet and then click on File Navigate to Options
+    and then select Formulas Look for Error checking rules and
+    uncheck Formulas that omit cells in a region Click OK.
+
+4. How do you select non-adjacent cells in Excel 2016?
+--> With the mouse, click the first cell that wants to highlight -- press
+    and hold the ‘ctrl’ key on the keyboard -- and click the rest of the cells
+    that want to highlight.
+    Once desired cells are highlighted, leave the ctrl key.
+
+5.  What happens if you choose a column, hold down the Alt key and press the letters OCW in quick succession?
+--> If select a column, hold down the Alt key and press the letters out in quick succession. The contents of the first cell in the selected column will be replaced with the letters 'O-C-W'.
+
+6. If you right-click on a row reference number and click on Insert, where will the row be added?
+--> If we right-click on a row reference number and click on Insert, A new row is inserted above the cell(s) you originally selected.
+    To insert a single row: Right-click the whole row above which you want to insert the new row, and then select Insert Rows.
+    To insert multiple rows: Select the same number of rows above which you want to add new ones. Right-click the selection, and then
+    select Insert Rows.
