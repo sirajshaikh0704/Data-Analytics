@@ -1,0 +1,57 @@
+Excel Assignment - 9
+
+1.  What are the different margin options, and do we adjust the margins of the excel worksheet?
+--> To use predefined margins are Normal, Wide, or Narrow.
+    To specify the page margin tab, click Custom Margins, and then—in the Top,
+    Bottom, Left, header, footer, and Right boxes—enter the margin sizes that
+    want to change.
+
+2.  Set a background for your table created.
+--> Select the cell or range of cells you want to format.
+    Click Home > Format Cells dialog launcher, or press Ctrl+Shift+F.
+    On the Fill tab, under Background Color, pick the color you want.
+
+ 3. What are freeze panes and why do we use freeze panes? Give examples.
+--> To keep an area of a worksheet visible while you scroll to another area of the
+    worksheet, go to the View tab, where you can Freeze Panes to lock specific
+    rows and columns in place, or you can Split panes to create separate
+    windows of the same worksheet.
+
+4.  What are the different features available within the Freeze Panes command?
+--> Freeze Pane shows three options in the drop-down:
+    Freeze Panes: It freezes the rows as well as the columns.
+    Freeze Top Row: It freezes all the rows above the active cell.
+    Freeze First Column: It freezes all the columns to the left of the active cell.
+
+5.  Explain what the different sheet options present in excel are and what they do?
+--> An Excel sheet is one of the core elements of the workbook, there are
+    multiple core options to perform from the Sheet Options. We can access
+    various sheet options by using the following ways:
+    Ribbon Sheet Options
+    Right-click Sheet Options
+    Sheet options are present on the Excel ribbon and can be accessed by going
+    to Page Layout  Sheet Options. It mainly has four toggle options: two
+    for Gridlines and two for Headings, and they can be turned on and off by
+    selecting and deselecting the checkboxes.
+
+    Gridlines:
+    View: This option allows users to show/ hide gridlines within the active
+          worksheet. Turning off this option removes the gridlines from the sheet
+          and displays a blank Excel sheet.
+
+   Print: This option allows users to show/ hide gridlines on an Excel
+          document that will be printed on paper.
+
+   Headings:
+   View:  This option allows users to show/ hide headings within the active
+          worksheet. Turning off this option removes the headings from the current
+          sheet's headers and footers.
+
+   Print: This option allows users to show/ hide headings on an Excel
+          document, which is to be printed on paper.
+          In Excel, the right-click with the mouse button usually displays the context
+          menu for the selected element.
+   
+   When pressing the right-click on any Sheet tabs, Excel displays a list of
+   options relevant to Excel sheets. The list includes various sheet options.
+   However, this list is usually called the 'worksheet menu'.
