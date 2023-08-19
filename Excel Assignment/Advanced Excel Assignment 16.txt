@@ -1,0 +1,33 @@
+Excel Assignment - 16
+1. What is a Macro? How is it useful in excel or in your daily work?
+--> A macro is a set of instructions used to execute repetitive tasks. We can record
+    a set of commands and then play them back with one or two keystrokes. That
+    means that we can save a lot of time when doing routine and repetitive tasks.
+    A macro is an action or a set of actions that we can run as many times as we
+    want. When you create a macro, you are recording your mouse clicks and keystrokes.
+
+2. What is VBA? Write its full form and briefly explain why VBA is used in excel.
+--> Visual Basic for Applications is a computer programming language developed
+    and owned by Microsoft.
+    With VBA we can create macros to automate repetitive word- and dataprocessing functions, and generate custom forms, graphs, and reports. 
+    It is a human-readable and editable programming code that gets generated
+    when you record a macro.
+
+3. How do you record a macro? Write detailed steps to create
+   a macro to automatically make the following table in bold and
+   to create borders for it in excel.
+   hi 78
+   hello 69
+   ineuron 45
+-->Macros and VBA tools can be found on the Developer tab, which is hidden by
+   default, so the first step is to enable it by clicking on a custom ribbon. In
+   the Code group on the Developer tab, click Record Macro.
+   Optionally, enter a name for the macro in the Macro name box, enter a shortcut
+   key in the Shortcut key box, and a description in the Description box, and then
+   click OK to start recording.
+   Perform the actions you want to automate, such as entering boilerplate text or
+   filling down a column of data. On the Developer tab, click Stop Recording.
+   To edit a macro, in the Code group on the Developer tab, click Macros, select
+   the name of the macro, and click Edit. This starts with the Visual Basic Editor
+   then, close the Visual Basic Editor and run your macro again, it will automatics
+   do a task.
